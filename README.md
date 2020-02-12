@@ -9,7 +9,7 @@ In this course, the students will learn the theoretical and computational fundam
 Major concepts about body and surface waves as well as normal modes are introduced.
 
 <!-- ![Seismic waves on Earth and Mars](earth-mars-waves.jpg) -->
-<img src="earth-mars-waves.jpg" width="500" alt="Seismic waves on Earth and Mars">
+<img src="earth-mars-waves.jpg" width="1000" alt="Seismic waves on Earth and Mars">
 
 ### Time and Location
 
