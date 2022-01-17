@@ -13,8 +13,8 @@ Major concepts about body and surface waves as well as normal modes are introduc
 
 ### Time and Location
 
-- Wed/Thu, 9:00 - 10:30
-- KAUST building 9, level 4, room 4138
+- Mon/Wed, 13:15 - 14:45
+- online teaching 
 
 ### Instructor: Daniel Peter
 - KAUST building 1, office #0146  
